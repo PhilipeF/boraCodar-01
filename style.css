@@ -81,6 +81,7 @@ body {
 
 .info {
   color: #e1e1e6;
+  display: grid;
   gap: 9.6px;
 }
 
