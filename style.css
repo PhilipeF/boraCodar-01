@@ -156,13 +156,22 @@ body {
   margin-top: 15px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 480px) { 
+
   #app {
     display: flex;
     flex-direction: column;
 
     max-width: 270px;
-    margin: 0 auto;
+    margin: auto;
+
+    height: auto;
+    padding-block: 60px;
+  }
+
+  #player-1 .info {
+    display: flex;
+    flex-direction: column
   }
 
   .horizontal h1 {
@@ -177,5 +186,12 @@ body {
     padding-inline: 30px;
   }
 
+  .info {
+    align-items: center
+  }
 
+  .info-wrapper {
+    gap: 15px;
+    align-items: center;
+  }
 }
