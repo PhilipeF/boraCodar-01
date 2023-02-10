@@ -6,7 +6,7 @@
 #BoraCodar - O bora codar é uma série de desafios criado pela Rocketseat com intuito de estimular desenvolvedores/as a se desafiar com projetos pequenos, porém com uma abrangência e conceitos enormes que fazem parte do nosso dia a dia como desenvolvedor web front-end. O desafio funciona da seguinte forma, eles mandam o desafio no linkedin ou no site da plataforma com um layout no figma e nós temos 1(uma) semana para realizar o desafio.
 Este desafio em questão foi de codificar um layout de um player de música onde pude praticar bastante layout grid. 
 
-Segue o link do layout no figma - https://www.figma.com/file/IupPQB93FVMDpCrKHGM422/%23boraCodar---Desafio-1-(Copy)?node-id=0%3A1&t=UY5ykQWWLaTcKZeq-0
+Segue o link do layout com o desafio no figma - https://www.figma.com/file/IupPQB93FVMDpCrKHGM422/%23boraCodar---Desafio-1-(Copy)?node-id=0%3A1&t=UY5ykQWWLaTcKZeq-0
 
 <br>
 
