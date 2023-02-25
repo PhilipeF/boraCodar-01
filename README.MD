@@ -1,9 +1,11 @@
 <div align="center">
+<img src='./img/preview.jpg'>
+
 <h1> Player de Música </h1>
 </div>
 <h2>📃 Sobre</h2><p>
 <br>
-#BoraCodar - O bora codar é uma série de desafios criado pela Rocketseat com intuito de estimular desenvolvedores/as a se desafiar com projetos pequenos, porém com uma abrangência e conceitos enormes que fazem parte do nosso dia a dia como desenvolvedor web front-end. O desafio funciona da seguinte forma, eles mandam o desafio no linkedin ou no site da plataforma com um layout no figma e nós temos 1(uma) semana para realizar o desafio.
+#BoraCodar - O bora codar é uma série de desafios criado pela Rocketseat com intuito de estimular desenvolvedores/as a se desafiar com projetos pequenos, porém com uma abrangência e conceitos enormes que fazem parte do nosso dia a dia como desenvolvedor web front-end. O desafio funciona da seguinte forma, eles mandam o desafio no linkedin ou no site da plataforma com um layout no figma e nós temos 1(uma) semana para realizar o desafio.<p>
 Este desafio em questão foi de codificar um layout de um player de música onde pude praticar bastante layout grid. 
 
 Segue o link do layout com o desafio no figma - https://www.figma.com/file/IupPQB93FVMDpCrKHGM422/%23boraCodar---Desafio-1-(Copy)?node-id=0%3A1&t=UY5ykQWWLaTcKZeq-0
@@ -36,7 +38,7 @@ Execute o projeto:
 Para executar o projeto use a extensão Live Server do vscode.
 ```
 
-<h2> 🖼️ Segue abaixo uma imagem do projeto</h2>
+<h2> 🖼️ Segue abaixo uma imagem da conclusão do dasafio</h2>
 
 ![printSistema](https://user-images.githubusercontent.com/64853039/218130653-4f761c48-8d0b-48e6-997d-55acf3257007.png)
 
