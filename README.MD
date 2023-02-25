@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Bora Codar #01 </h1>
+<h1> Player de Música </h1>
 </div>
 <h2>📃 Sobre</h2><p>
 <br>
