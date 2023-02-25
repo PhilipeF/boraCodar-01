@@ -10,8 +10,6 @@ Segue o link do layout com o desafio no figma - https://www.figma.com/file/IupPQ
 
 <br>
 
-
-
 ## 🚀 Tecnologias e ferramentas utilizadas
 <br>
 
@@ -38,9 +36,9 @@ Execute o projeto:
 Para executar o projeto use a extensão Live Server do vscode.
 ```
 
-<h2> 🖼️ Segue abaixo uma imagem do sistema</h2>
+<h2> 🖼️ Segue abaixo uma imagem do projeto</h2>
 
-
+![printSistema](https://user-images.githubusercontent.com/64853039/218130653-4f761c48-8d0b-48e6-997d-55acf3257007.png)
 
 <br>
 <br>
